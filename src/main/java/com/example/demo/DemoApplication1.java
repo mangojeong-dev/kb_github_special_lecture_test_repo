@@ -29,7 +29,7 @@ public class DemoApplication1 {
         return "Application is running";
     }
 
-    public String a() {
+    public String f_hotfix() {
         return "Application is running";
     }
 
