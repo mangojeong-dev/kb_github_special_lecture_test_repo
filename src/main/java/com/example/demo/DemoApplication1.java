@@ -29,8 +29,4 @@ public class DemoApplication1 {
         return "Application is running";
     }
 
-    public String b() {
-        return "Application is running";
-
-    }
 }
